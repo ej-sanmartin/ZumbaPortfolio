@@ -1,0 +1,27 @@
+* {
+  size: 12px;
+  font: arial, Roman, serif;
+}
+
+h1 {
+  color: blue;
+}
+
+p {
+  color: grey;
+  size: 1em;
+}
+
+.first {
+  color: purple;
+}
+
+#special {
+  color: 	#FBDD40;
+}
+
+/* Comments for CSS */
+/*
+  All programming languages/ mark up languages
+  have their own version of comments
+*/
